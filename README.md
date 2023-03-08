@@ -23,7 +23,7 @@ Vypršení času je bráno jako špatná odpoved.
 
 ## Hudba 
 
-Hudba hraje neustále na pozadí hry. Lze vypnout při aktivaci tlačítka s piktogramem hudby. 
+Hlavní doprovodná hudba hraje neustále na pozadí hry. Lze vypnout a zapnout při aktivaci tlačítka s piktogramem hudby. 
 Dále se dle definovaných pravidel spouští dva typy melodii:
 
 1). Při zobrazení červenýho křížku (špatná odpoved) se aktivuje krátká malodie, která ma hráče upozornit na chybnou odpoved.
