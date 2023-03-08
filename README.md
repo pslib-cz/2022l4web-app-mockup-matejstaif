@@ -11,7 +11,7 @@ Hlavním cílem je zachránit ubohého Ivana před strašlivými monstry! Hra ob
 
 Po spuštění hry se spustí časovač. Na každou odpověd má hráč 30 vteřin. Uprostřed je Ivan, který každých 50 veřin řekne jednu z hlášek. Hláška je viditelná následných 15 vteřin. Poté zmizí a další hláška se objeví za dalších 50 vteřin.
 
-Každé z monster pod sebou má jednu z odpověd na příslušný příklad. Pouze jeden je, ale správný. 
+Každé z monster pod sebou má jednu z odpovědí na příslušný příklad. Pouze jeden je, ale správný. 
 ### Správná odpověd
 Po kliknutí na mostrum, které má pod sebou správnou odpoved na příslušný příklad. Monstrum zmizí a zbydou pouze 3 monstra. Takto to pokračuje - za každou správnou odpoved jedno monstrum zmizí. Při 4 příkladu, když zbyde pouze jedno monstrum pod příšerou není výsledek, ale políčko na správnou odpoved a hráč musí číselně odpovedet.
 ### Špatná odpověd
