@@ -22,3 +22,8 @@ Při špatné odpovědi se taktéž vždy zobrazí červený křížek značíc�
 Vypršení času je bráno jako špatná odpoved.
 
 ## Hudba 
+
+Hudba hraje neustále na pozadí hry. Lze vypnout při aktivaci tlačítka s piktogramem hudby. 
+Dále se dle definovaných pravidel spouští dva typy melodii:
+1). Při zobrazení červenýho křížku (špatná odpoved) se aktivuje krátká malodie, která ma hráče upozornit na chybnou odpoved.
+2). Při zobrazení nového monstra či vypaření stávajícího monstra se aktivuje krátká melodie, která má hráče upozornit na zmizení či znovu objevení příšery.
