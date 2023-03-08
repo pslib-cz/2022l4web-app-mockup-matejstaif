@@ -16,5 +16,9 @@ Každé z monster pod sebou má jednu z odpovědí na příslušný příklad. P
 Po kliknutí na mostrum, které má pod sebou správnou odpoved na příslušný příklad. Monstrum zmizí a zbydou pouze 3 monstra. Takto to pokračuje - za každou správnou odpoved jedno monstrum zmizí. Při každém 4 příkladu, když zbyde pouze jedno monstrum. Pod příšerou není výsledek, ale políčko na správnou odpoved a hráč musí číselně odpovedet.
 ### Špatná odpověd
 Když hráč odpoví špatně na prázdném místě, kde dříve bylo monstrum se objeví jedna příšera znovu. Výjmkou je situace, když mám plný počet monster, tedy 4, v tom případě se nic nestane a pouze se resetuje příklad.
+
+Při špatné odpovědi se taktéž vždy zobrazí červený křížek značící špatnou odpoved
 ### Vypršení času
 Vypršení času je bráno jako špatná odpoved.
+
+## Hudba 
