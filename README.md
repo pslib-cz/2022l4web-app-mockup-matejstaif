@@ -7,7 +7,7 @@ Hra Zachran Ivana je matematická hra s jednoduchými pravidly. Hra má za cíl 
 
 Hlavním cílem je zachránit ubohého Ivana před strašlivými monstry! Hra obsahuje úrovně obtížnosti, kde každá obtížnost obsahuje 4 monstra, které musí hráč přemoct silou matematiky a každé monstrum zničit správnou odpovědí.
 
-## Fylozofie hry
+## Filozofie hry
 
 Po spuštění hry se spustí časovač. Na každou odpověd má hráč 30 vteřin. Uprostřed je Ivan, který každých 50 veřin řekne jednu z hlášek. Hláška je viditelná následných 15 vteřin. Poté zmizí a další hláška se objeví za dalších 50 vteřin.
 
