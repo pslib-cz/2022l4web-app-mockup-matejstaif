@@ -3,6 +3,8 @@
 
 ## Úvod
 
+![náhled hry na monitoru při 1920px](https://github.com/pslib-cz/2022l4web-app-mockup-matejstaif/blob/87c09513874f9956e9265d37c520826e40d058ff/img/n%C3%A1hled-hry.png)
+
 Hra Zachran Ivana je matematická hra s jednoduchými pravidly. Hra má za cíl procvičit jednoduché matematické počítaní. S každým levelem se obtížnost příkladů zvyšuje, ale časový limit zůstává pořád stejný.
 
 Hlavním cílem je zachránit ubohého Ivana před strašlivými monstry! Hra obsahuje úrovně obtížnosti, kde každá obtížnost obsahuje 4 monstra, které musí hráč přemoct silou matematiky a každé monstrum zničit správnou odpovědí.
@@ -21,11 +23,5 @@ Při špatné odpovědi se taktéž vždy zobrazí červený křížek značíc�
 ### Vypršení času
 Vypršení času je bráno jako špatná odpoved.
 
-## Hudba 
-
-Hlavní doprovodná hudba hraje neustále na pozadí hry. Lze vypnout a zapnout při aktivaci tlačítka s piktogramem hudby. 
-Dále se dle definovaných pravidel spouští dva typy melodii:
-
-1). Při zobrazení červenýho křížku (špatná odpoved) se aktivuje krátká malodie, která ma hráče upozornit na chybnou odpoved.
-
-2). Při zobrazení nového monstra či vypaření stávajícího monstra se aktivuje krátká melodie, která má hráče upozornit na zmizení či znovu objevení příšery.
+## Ivanovi hlášky
+Ivan používá následující hlášky: Pomoc, bojím se; Zachran mě; Nesnáším monstra; Ivan se bojí, pomoc; Pomoc mi prosím; Jsem k smrti vyděšený; Zachran mě před ukrutnými monstry; Nesnáším příšery, zachran mě prosím!
