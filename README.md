@@ -3,6 +3,8 @@
 
 ## Úvod
 
+![náhled hry na monitoru při 1920px]()
+
 Hra Zachran Ivana je matematická hra s jednoduchými pravidly. Hra má za cíl procvičit jednoduché matematické počítaní. S každým levelem se obtížnost příkladů zvyšuje, ale časový limit zůstává pořád stejný.
 
 Hlavním cílem je zachránit ubohého Ivana před strašlivými monstry! Hra obsahuje úrovně obtížnosti, kde každá obtížnost obsahuje 4 monstra, které musí hráč přemoct silou matematiky a každé monstrum zničit správnou odpovědí.
