@@ -3,7 +3,7 @@
 
 ## Úvod
 
-![náhled hry na monitoru při 1920px]()
+![náhled hry na monitoru při 1920px](2022l4web-app-mockup-matejstaif/img/náhled-hry.png)
 
 Hra Zachran Ivana je matematická hra s jednoduchými pravidly. Hra má za cíl procvičit jednoduché matematické počítaní. S každým levelem se obtížnost příkladů zvyšuje, ale časový limit zůstává pořád stejný.
 
